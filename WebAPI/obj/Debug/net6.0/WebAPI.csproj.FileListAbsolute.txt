@@ -1,0 +1,5 @@
+D:\代码\新建文件夹\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+D:\代码\新建文件夹\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\代码\新建文件夹\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+D:\代码\新建文件夹\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+D:\代码\新建文件夹\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
